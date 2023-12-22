@@ -30,3 +30,8 @@ Agora que já preparamos as alterações, podemos salvá-las dentro do commit. O
 git push
 ```
 Após termos salvo as alterações, podemos enviá-las ao diretório remoto através do comando acima.
+
+```
+git pull
+```
+Esse comando puxa as alterações feitas no repositório remoto ao seu repositório local.
